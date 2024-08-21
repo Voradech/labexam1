@@ -1,0 +1,64 @@
+
+header{
+    background-color:rgba(0, 255, 255, 0.842);
+    
+}
+header img{
+    margin-left: 10px;
+    width: 45px;
+    height: 45px;
+    margin-top:10px;
+    align-items: center;
+    vertical-align:text-bottom;
+    
+    
+}
+h3{
+    vertical-align: center;
+    display: inline-block;
+    align-items: center;
+    
+}
+.home{
+    color:black;
+}
+.aboutsys{
+    color:grey;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+input{
+    color: deepskyblue;
+    background-color: white;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+ul{
+    align-items: center;
+        
+}
+
+li{
+    list-style: none;
+    display: inline;
+    margin:0 1rem;
+}
+a{
+    text-decoration: none;
+    
+}
+img{
+    width: 1600px;
+    height: 500px;
+}
+footer{
+    text-align: center;
+    background-color: grey;
+    color:white;
+}
